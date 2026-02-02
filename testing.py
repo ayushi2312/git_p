@@ -1,1 +1,2 @@
-print("Hello, World!" ,/n ,"hello")
+print("Hello, World!", "hello", sep="\n")
+
